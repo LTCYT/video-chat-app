@@ -38,6 +38,14 @@
   margin: 0 0.5rem;
 }
 
+.background_red {
+  background-color: red;
+}
+
+.background_blue {
+  background-color: blue;
+}
+
 #show_chat {
   display: none;
 }
